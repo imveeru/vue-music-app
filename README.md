@@ -1,4 +1,4 @@
-# vue-cards
+# vue-music-app
 
 ## Project setup
 ```
